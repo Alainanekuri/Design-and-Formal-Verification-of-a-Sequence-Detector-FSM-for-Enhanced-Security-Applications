@@ -1,6 +1,7 @@
 # Formal-Verification
 Design and Formal Verification of a Sequence Detector FSM for Enhanced Security Applications
-Project Description: In this project, a sequence detector Finite State Machine(FSM) is verified and developed that identifies a specific sequence of binary inputs. This FSM will be used as part of a security system to detect authorized sequences for operation activation.
+Project Description:
+In this project, a sequence detector Finite State Machine(FSM) is verified and developed that identifies a specific sequence of binary inputs. This FSM will be used as part of a security system to detect authorized sequences for operation activation.
 
 VC Formal AEP App: App for Automatically Extracted Properties. The AEP app will extract properties from your design written in a supported HDL, such as SV, and analyze them automatically to provide results. This is done automatically, and writing properties or assertions is not necessary.
 
